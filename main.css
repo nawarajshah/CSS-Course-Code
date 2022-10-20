@@ -1,8 +1,19 @@
 body {
-    background-color: linen;
+    font-family: arial;
+    background-color: #e0f2f1;
 }
 
-h1 {
-    color: maroon;
+#listInfo {
     text-align: center;
+    color: darkred;
+    text-decoration: underline;
+    text-transform: capitalize;
+    word-spacing: 10px;
+}
+
+div {
+    border: 1px solid gray;
+    padding: 8px;
+    margin: 9px;
+    color: rgba(74, 20, 140, 1);
 }
