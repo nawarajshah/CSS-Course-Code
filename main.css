@@ -13,11 +13,11 @@ h1 {
 
 div {
     color: rgba(74, 20, 140, 1);
-    border: 1px;
-    border-width: 5px;
-    /* border-color: red green blue yellow; */
-    border-style: solid;
-    border-radius: 20px;
+    border: 5px solid gray;
     padding: 8px;
-    margin: 9px;
+    margin: 10px 5px 20px 5px;
+    /* margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px; */
 }
