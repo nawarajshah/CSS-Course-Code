@@ -33,8 +33,8 @@ a:hover {
 }
 
 .position {
-    position: relative;
+    position: sticky;
     top: 0;
-    right: -50px;
+    right: 0;
     width: 40%;
 }
