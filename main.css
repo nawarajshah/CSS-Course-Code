@@ -35,5 +35,6 @@ a:hover {
 .container {
     height: 400px;
     width: 50%;
-    overflow: auto;
+    background-color: white;
+    overflow: visible;
 }
