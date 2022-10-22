@@ -33,5 +33,5 @@ a:hover {
 }
 
 .display {
-    display: inline-block;
+    display: inline-flex;
 }
