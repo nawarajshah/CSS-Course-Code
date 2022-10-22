@@ -34,7 +34,8 @@ a:hover {
 
 .container {
     height: 400px;
-    width: 50%;
+    width: 70%;
     background-color: white;
-    overflow: visible;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
