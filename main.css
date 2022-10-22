@@ -32,6 +32,9 @@ a:hover {
     color: red;
 }
 
-.display {
-    display: inline-flex;
+.position {
+    position: relative;
+    top: 0;
+    right: -50px;
+    width: 40%;
 }
