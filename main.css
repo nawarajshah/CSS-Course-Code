@@ -46,6 +46,6 @@ p::first-letter {
     font-size: 30px;
 }
 
-h1::after {
-    content: " Added after";
-  }
+h1::before {
+    content: "Added before ";
+}
