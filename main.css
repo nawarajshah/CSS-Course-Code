@@ -36,3 +36,16 @@ a:hover {
     text-decoration: underline;
     color: red;
 }
+
+p::first-line {
+    color: red;
+}
+
+p::first-letter {
+    color: blue;
+    font-size: 30px;
+}
+
+h1::after {
+    content: " Added after";
+  }
