@@ -22,14 +22,6 @@ div.student:hover {
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
 }
 
-div.student:first-child {
-    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
-}
-
-li:first-child {
-    color: red;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
