@@ -33,7 +33,3 @@ a:hover {
     text-decoration: underline;
     color: red;
 }
-
-ul ~ p {
-    background-color: white;
-}
