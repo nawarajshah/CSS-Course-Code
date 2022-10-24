@@ -1,6 +1,10 @@
 body {
     font-family: arial;
-    background-image: url(paper.jpg);
+    /* background-image: url(wood.jpg);
+    background-position: bottom left;
+    background-repeat: repeat; */
+    /* background: url(wood.jpg) top left; */
+    background-image: linear-gradient(to bottom right, orange, green);
 }
 
 h1 {
