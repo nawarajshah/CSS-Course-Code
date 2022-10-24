@@ -9,9 +9,9 @@ h1 {
     word-spacing: 10px;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     letter-spacing: 1px;
-    animation-name: bg-color-change;
+    /* animation-name: bg-color-change;
     animation-duration: 4s;
-    /* animation-delay: 2s;
+    animation-delay: 2s;
     animation-iteration-count: 2; */
 }
 
@@ -31,7 +31,7 @@ h1 {
 div.student:hover {
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     animation-name: shadow-change;
-    animation-duration: 1s;
+    animation-duration: 0.6s;
 }
 
 ul {
