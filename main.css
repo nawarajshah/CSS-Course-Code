@@ -1,10 +1,5 @@
 body {
     font-family: arial;
-    /* background-image: url(wood.jpg);
-    background-repeat: repeat;
-    background-position: bottom right; */
-    /* background: url(wood.jpg) repeat bottom right; */
-    /* background-image: linear-gradient(to top right, orange, green); */
 }
 
 h1 {
@@ -20,7 +15,7 @@ h1 {
     display: flex;
 }
 
-div.student {
+.container > div.student {
     background-color: #e0f2f1;
     padding: 15px;
     border-radius: 10px;
