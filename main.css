@@ -1,10 +1,10 @@
 body {
     font-family: arial;
     /* background-image: url(wood.jpg);
-    background-position: bottom left;
-    background-repeat: repeat; */
-    /* background: url(wood.jpg) top left; */
-    background-image: linear-gradient(to bottom right, orange, green);
+    background-repeat: repeat;
+    background-position: bottom right; */
+    /* background: url(wood.jpg) repeat bottom right; */
+    background-image: linear-gradient(to top right, orange, green);
 }
 
 h1 {
@@ -40,17 +40,4 @@ a:link {
 a:hover {
     text-decoration: underline;
     color: red;
-}
-
-p::first-line {
-    color: red;
-}
-
-p::first-letter {
-    color: blue;
-    font-size: 30px;
-}
-
-h1::before {
-    content: "Added before ";
 }
